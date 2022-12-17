@@ -1,0 +1,44 @@
+{
+  "frequently": [
+    {
+      "name": "Registrarse",
+      "description": "Registrarse en el sistema",
+      "icon": "person_add_rounded"
+    },
+    {
+      "name": "Consultar saldo",
+      "description": "Consultar saldo actual de la tarjeta",
+      "icon": "attach_money_rounded"
+    },
+    {
+      "name": "Transferir efectivo",
+      "description": "Transfrencia de saldo de la tarjeta",
+      "icon": "account_balance_wallet_rounded"
+    },
+    {
+      "name": "Teléfono",
+      "description": "Pagar factura telefónica",
+      "icon": "local_phone_rounded"
+    },
+    {
+      "name": "Electricidad",
+      "description": "Pagar factura de la electricidad",
+      "icon": "lightbulb"
+    },
+    {
+      "name": "Agua",
+      "description": "Pagar factura del agua",
+      "icon": "water_damage_rounded"
+    },
+    {
+      "name": "Recargar saldo móvil",
+      "description": "Recargae saldo móvil con cuenta bancaria",
+      "icon": "phone_android_rounded"
+    },
+    {
+      "name": "Recargar nauta",
+      "description": "Recargar cuenta nauta permanente",
+      "icon": "wifi_rounded"
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "windows": [
+    [
+      {
+        "name": "B Consultar saldo",
+        "description": "Consultar saldo actual de la tarjeta",
+        "icon": "attach_money_rounded"
+      },
+      {
+        "name": "Consultar servicio",
+        "description": "Consultar factura del servicio",
+        "icon": "electrical_services_rounded"
+      },
+      {
+        "name": "Últimas operaciones",
+        "description": "Últimas 10 operaciones de la tarjeta",
+        "icon": "format_list_numbered_rounded"
+      },
+      {
+        "name": "Consulta de límites",
+        "description": "Consulta de límites de las cuentas bancarias",
+        "icon": "warning_rounded"
+      },
+      {
+        "name": "Últimos pagos realizados",
+        "description": "Consultar último pagos realizados",
+        "icon": "featured_play_list_rounded"
+      },
+      {
+        "name": "Consultar todas las cuentas",
+        "description": "Consultar todas las cuentas bancarias",
+        "icon": "wysiwyg_rounded"
+      },
+      {
+        "name": "Consultar giros",
+        "description": "Giros pendientes",
+        "icon": "mark_email_read_rounded"
+      },
+      {
+        "name": "Tipo de cambio",
+        "description": "Consultar tipo de cambio vigente",
+        "icon": "compare_arrows_rounded"
+      },
+      {
+        "name": "Consulta de multa",
+        "description": "Consulta de multa",
+        "icon": "local_police_rounded"
+      },
+      {
+        "name": "Información Tarjeta Red",
+        "description": "Estado de Tarjeta Red",
+        "icon": "credit_score_rounded"
+      },
+      {
+        "name": "Cupones de combustible",
+        "description": "Consultas relacionadas con los cupones",
+        "icon": "ev_station_rounded"
+      },
+      {
+        "name": "Estado de un pago",
+        "description": "Solicitar estado de un pago",
+        "icon": "credit_card_rounded"
+      }
+    ],
+    [
+      {
+        "name": "Transferir efectivo",
+        "description": "Transfrencia de saldo de la tarjeta",
+        "icon": "account_balance_wallet_rounded"
+      },
+      {
+        "name": "Teléfono",
+        "description": "Pagar factura telefónica",
+        "icon": "local_phone_rounded"
+      },
+      {
+        "name": "Electricidad",
+        "description": "Pagar factura de la electricidad",
+        "icon": "lightbulb"
+      },
+      {
+        "name": "Agua",
+        "description": "Pagar factura del agua",
+        "icon": "water_damage_rounded"
+      },
+      {
+        "name": "Gas",
+        "description": "Pagar factura de gas manufacturado",
+        "icon": "local_fire_department_rounded"
+      },
+      {
+        "name": "ONAT",
+        "description": "Pagar ONAT",
+        "icon": "add_chart_rounded"
+      },
+      {
+        "name": "Recargar saldo móvil",
+        "description": "Recargae saldo móvil con cuenta bancaria",
+        "icon": "phone_android_rounded"
+      },
+      {
+        "name": "Recargar nauta",
+        "description": "Recargar cuenta nauta permanente",
+        "icon": "wifi_rounded"
+      },
+      {
+        "name": "Giro postal",
+        "description": "Realizar giro a través de Correos de Cuba",
+        "icon": "mark_email_read_rounded"
+      },
+      {
+        "name": "Pago en línea",
+        "description": "Comercio electrónico",
+        "icon": "qr_code_scanner_rounded"
+      },
+      {
+        "name": "Recarga propia",
+        "description": "Recargar trajeta propia de ETECSA",
+        "icon": "call_to_action_rounded"
+      },
+      {
+        "name": "Recargar cuenta de Joven Club",
+        "description": "Transferencia a cuenta de Joven Club",
+        "icon": "desktop_windows_rounded"
+      },
+      {
+        "name": "Depósito a plazo flijo",
+        "description": "Apertura o cierre de depósito a plazo fijo",
+        "icon": "monetization_on_rounded"
+      },
+      {
+        "name": "Multa de contravención",
+        "description": "Pagar multa de contravención",
+        "icon": "local_police_rounded"
+      },
+      {
+        "name": "Multa de tránsito",
+        "description": "Pagar multa de tránsito",
+        "icon": "taxi_alert_rounded"
+      },
+      {
+        "name": "Cupón de combustible",
+        "description": "Comprar cupones de combustible",
+        "icon": "ev_station_rounded"
+      },
+      {
+        "name": "Amortizar",
+        "description": "Amortizar créditos bancarios",
+        "icon": "credit_score_rounded"
+      },
+      {
+        "name": "Caja extra",
+        "description": "Servicio de extracción de efectivo",
+        "icon": "local_atm_rounded"
+      },
+      {
+        "name": "Bolsa MiTransfer",
+        "description": "Recargar bolsa MiTransfer en CUP",
+        "icon": "bolsa_mitransfer"
+      },
+      {
+        "name": "OFA Ciudades patromoniales",
+        "description": "Aporte a la oficina del Historiador/Conservador",
+        "icon": "location_city_rounded"
+      }
+    ],
+    [
+      {
+        "name": "Adicionar factura",
+        "description": "Adicionar nueva factura",
+        "icon": "note_add_rounded"
+      },
+      {
+        "name": "Consultar factura",
+        "description": "Consultar por tipo de factura",
+        "icon": "sticky_note_2_rounded"
+      },
+      {
+        "name": "Pagar factura",
+        "description": "Pagar todo tipo de factura",
+        "icon": "payment_rounded"
+      },
+      {
+        "name": "Eliminar factura",
+        "description": "Eliminar factura asociada a un tipo de servicio",
+        "icon": "delete_sweep_rounded"
+      }
+    ],
+    [
+      {
+        "name": "Registrarse",
+        "description": "Registrarse en el sistema",
+        "icon": "person_add_rounded"
+      },
+      {
+        "name": "Eliminar registro",
+        "description": "Eliminar registro asociado a su tarjeta",
+        "icon": "delete_forever_rounded"
+      },
+      {
+        "name": "Cambio de límites",
+        "description": "Cambio de límites de las cuentas bancarias",
+        "icon": "price_change_rounded"
+      },
+      {
+        "name": "Cambio de clave",
+        "description": "Cambio de PIN de la tarjeta magnética",
+        "icon": "vpn_key_rounded"
+      },
+      {
+        "name": "Cambio de pin",
+        "description": "Cambio de PIN de la tarjeta Telebanca",
+        "icon": "lock_rounded"
+      },
+      {
+        "name": "Reimpresión de tarjeta red",
+        "description": "Reimpresión de tarjeta red",
+        "icon": "credit_card_off_rounded"
+      },
+      {
+        "name": "Imprimir tarjeta USD",
+        "description": "Apertura de cuenta en USD con respaldo en MLC",
+        "icon": "account_balance_rounded"
+      },
+      {
+        "name": "Generar código PIN",
+        "description": "PIN no impreso",
+        "icon": "password_rounded"
+      },
+      {
+        "name": "Convertir cuenta",
+        "description": "Convertir cuenta CUC a CUP",
+        "icon": "change_circle_rounded"
+      }
+    ]
+  ]
+}

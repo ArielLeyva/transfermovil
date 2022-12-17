@@ -1,0 +1,88 @@
+{
+  "routes": [
+    {
+      "name": "Servicios",
+      "collapsed": true,
+      "routes": [
+        {
+          "name": "Llamadas",
+          "icon": "call_rounded",
+          "index": 1
+        },
+        {
+          "name": "Servicios frecuentes",
+          "icon": "numbers_outlined",
+          "index": 2
+        },
+        {
+          "name": "Servicios SMS",
+          "icon": "sms_rounded",
+          "index": 3
+        },
+        {
+          "name": "Teléfonos útiles",
+          "icon": "headset_mic_rounded",
+          "index": 4
+        }
+      ]
+    },
+    {
+      "name": "ETECSA",
+      "collapsed": false,
+      "routes": [
+        {
+          "name": "Bolsa MiTransfer",
+          "icon": "hearing",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "name": "Bancos",
+      "collapsed": false,
+      "routes": [
+        {
+          "name": "BPA",
+          "icon": "bpa_icon",
+          "index": 6
+        },
+        {
+          "name": "BANDEC",
+          "icon": "bandec_icon",
+          "index": 7
+        },
+        {
+          "name": "Metropolitano",
+          "icon": "metropolitano_icon",
+          "index": 8
+        },
+        {
+          "name": "Gestión",
+          "icon": "fact_check",
+          "index": 9
+        },
+        {
+          "name": "Mis cuentas",
+          "icon": "switch_account_rounded",
+          "index": 10
+        }
+      ]
+    },
+    {
+      "name": "Estadísticas",
+      "collapsed": true,
+      "routes": [
+        {
+          "name": "Resumen de operaciones",
+          "icon": "dvr_rounded",
+          "index": 11
+        },
+        {
+          "name": "Detalles de operaciones",
+          "icon": "feed_rounded",
+          "index": 12
+        }
+      ]
+    }
+  ]
+}

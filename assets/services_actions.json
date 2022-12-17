@@ -1,0 +1,132 @@
+{
+  "actions": [
+    [
+      {
+        "name": "Consultar saldo prepago",
+        "description": "Consulte su saldo prepago marcando *222#",
+        "icon": "monetization_on_rounded"
+      },
+      {
+        "name": "Consultar saldo pospago",
+        "description": "Consulte su saldo pospago marcando *111#",
+        "icon": "monetization_on_rounded"
+      },
+      {
+        "name": "Realizar llamada",
+        "description": "Realizar una llamada telefónica",
+        "icon": "local_phone_rounded"
+      },
+      {
+        "name": "Llamada de cobro revertido",
+        "description": "Realizar una llamada telefónica con *99",
+        "icon": "phone_forwarded_rounded"
+      }
+    ],
+    [
+      {
+        "name": "Recargar saldo con bono",
+        "description": "Recargue su saldo móvil con bono",
+        "icon": "monetization_on_rounded"
+      },
+      {
+        "name": "Transferencia de saldo",
+        "description": "Transfiera su saldo a otro número de teléfono móvil",
+        "icon": "phone_forwarded_rounded"
+      },
+      {
+        "name": "Adelanta saldo",
+        "description": "Recargue su saldo móvil con el servicio Adelanta Saldo",
+        "icon": "contact_phone"
+      },
+      {
+        "name": "Cambiar clave de transferencia",
+        "description": "Cambie su clave de transferencia de saldo (por defecto 1234)",
+        "icon": "password_rounded"
+      },
+      {
+        "name": "Consultar estado de un bono",
+        "description": "Consulte el estado de su bono",
+        "icon": "try_sms_star_rounded"
+      },
+      {
+        "name": "Gestión de planes",
+        "description": "Compre planos de Datos, SMS, Voz y Amigos",
+        "icon": "phonelink_ring_rounded"
+      },
+      {
+        "name": "Consultar plan de Datos",
+        "description": "Consulte su servicio de plan de Datos",
+        "icon": "lte_plus_mobiledata_rounded"
+      },
+      {
+        "name": "Consultar plan de Voz",
+        "description": "Consulte su servicio de plan de Voz",
+        "icon": "headset_mic_rounded"
+      },
+      {
+        "name": "Consultar plan de SMS",
+        "description": "Consulte su servicio de plan de SMS",
+        "icon": "sms_rounded"
+      },
+      {
+        "name": "Consultar plan Amigos",
+        "description": "Consulte su servicio de plan Amigos",
+        "icon": "people_rounded"
+      }
+    ],
+    [
+      {
+        "name": "Voto móvil",
+        "description": "Vote a través del móvil",
+        "icon": "how_to_vote_rounded"
+      },
+      {
+        "name": "Ofertas ETECSA",
+        "description": "Conozca promociones, rebajas, nuevos servicios, equipos y otras novedades",
+        "icon": "money_off_csred_rounded"
+      },
+      {
+        "name": "Tarifa ETECSA",
+        "description": "Obtenga las tarifas vigentes",
+        "icon": "monetization_on_rounded"
+      },
+      {
+        "name": "Oferta planes",
+        "description": "Oferta de planes de Bolsa Nauta, SMS y Voz",
+        "icon": "phonelink_ring_rounded"
+      },
+      {
+        "name": "Oferta amigos",
+        "description": "Ofertas del Plan Amigos",
+        "icon": "people_rounded"
+      }
+    ],
+    [
+      {
+        "name": "Ambulancia",
+        "description": "104 - Servicios de ambulancia",
+        "icon": "medical_services_rounded"
+      },
+      {
+        "name": "Bomberos",
+        "description": "105 - Servicios de bomberos",
+        "icon": "local_fire_department_rounded"
+      },
+      {
+        "name": "PNR",
+        "description": "106 - Policía nacional revolucionaria",
+        "icon": "local_police_rounded"
+      },
+      {
+        "name": "Salvamento marítimo",
+        "description": "107 - Búsqueda y salvamento marítimo",
+        "icon": "eleven_mp_rounded"
+      },
+      {
+        "name": "Antidrogas",
+        "description": "103 - Línea confidencial antidrogas",
+        "icon": "next_plan_rounded"
+      }
+    ]
+  ]
+}
